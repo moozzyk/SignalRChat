@@ -1,0 +1,17 @@
+{
+  "name": "signalrchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@aspnet/signalr-client": "^1.0.0-alpha1-final",
+    "@types/jquery": "^3.2.12",
+    "jquery": "^3.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
