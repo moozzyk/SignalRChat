@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aspnet/signalr-client": "^1.0.0-alpha1-final",
+    "@aspnet/signalr-client": "^1.0.0-alpha2-final",
     "websocket": "^1.0.24",
     "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.51"
   }
 }
